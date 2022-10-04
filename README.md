@@ -1,6 +1,7 @@
 # Registration Auto Filler
 
 ## About the Project
+An extension for google chrome to fill the forms in a easier and faster way.
 
 ## Installation
 To use the Chrome extension, please follow the steps below:
